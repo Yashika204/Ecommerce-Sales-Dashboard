@@ -18,8 +18,8 @@ This project showcases an interactive dashboard built using Power BI to analyze 
 | File | Description |
 |------|-------------|
 | `E-Commerce_Sales_Dashboard.pbix` | Power BI dashboard file |
-| `Details.xlsx` | Source data (e.g. product or transaction details) |
-| `Orders.xlsx` | Order-specific data |
+| `Details.csv` | Source data (e.g. product or transaction details) |
+| `Orders.csv` | Order-specific data |
 | `Screenshot 2025-06-20 195832.png` | Dashboard preview image |
 
 ---
